@@ -1,11 +1,4 @@
-# Based9Based version of ROOP, No NSFW Filter, No ERRORS ;)
 Google Colab Link: [Click here](https://basedbased.blogspot.com/2023/08/google-colab-for-deepfake-face-swapping.html)
-
-# Roop
-
-> Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/s0md3v/roop/ci.yml.svg?branch=main)](https://github.com/s0md3v/roop/actions?query=workflow:ci)
 
 ## Installation
 
@@ -63,13 +56,6 @@ Users are expected to follow local laws and use the software responsibly. If usi
 ## Licenses
 
 Our software uses a lot of third party libraries as well pre-trained models. The users should keep in mind that these third party components have their own license and terms, therefore our license is not being applied.
-
-
-## Credits
-
-- [deepinsight](https://github.com/deepinsight) for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
-- all developers behind the libraries used in this project
-
 
 ## Documentation
 
